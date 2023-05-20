@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "765638595016",
+    "project_id": "proyecto2-9b89c",
+    "storage_bucket": "proyecto2-9b89c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765638595016:android:af07e4142d65089b81f0fd",
+        "android_client_info": {
+          "package_name": "com.example.dam_u4_proyecto2_19400554"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765638595016-ob47ia3s56pvkvgsvrvipnacpp8v0l22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nLKSp5byXEoBOtCOHBHjGlenHJ0LMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765638595016-ob47ia3s56pvkvgsvrvipnacpp8v0l22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765638595016-b3hhdevrcrm4lt6d46qgafvp8t8l6ga7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.damU4Proyecto219400554"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765638595016:android:e88c53fe8cd4f0cd81f0fd",
+        "android_client_info": {
+          "package_name": "com.example.dam_u4_proyecto2_19400554_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765638595016-ob47ia3s56pvkvgsvrvipnacpp8v0l22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2nLKSp5byXEoBOtCOHBHjGlenHJ0LMb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765638595016-ob47ia3s56pvkvgsvrvipnacpp8v0l22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765638595016-b3hhdevrcrm4lt6d46qgafvp8t8l6ga7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.damU4Proyecto219400554"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
